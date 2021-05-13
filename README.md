@@ -1,1 +1,2 @@
 # ICS2O-Unit3-03-GO-Volume-of-a-sphere
+[![GitHub's Super Linter](https://github.com/haokai-li/ICS2O-Unit3-03-GO-Volume-of-a-sphere/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/haokai-li/ICS2O-Unit3-03-GO-Volume-of-a-sphere/actions)
