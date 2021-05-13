@@ -23,7 +23,7 @@ func main() {
 	fmt.Scanln(&radius)
 	fmt.Println()
 	// process
-  volume = radius * radius * radius * 3.1415926535897932384626433 * 4 / 3
+	volume = radius * radius * radius * 3.1415926535897932384626433 * 4 / 3
 	// output
 	fmt.Println("Volume≈ ", accountingFormater.FormatMoney(volume), "cm³")
 	fmt.Println("\nDone.")
